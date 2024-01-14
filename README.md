@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning about AI and Machine Learning.
 - ⚡ Fun fact: I like to play basketball and read in my spare time.
 - 💬 Ask me about my projects or click [here](https://erionkeka.com) to learn more!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 **Active Projects:** 
 
