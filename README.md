@@ -1,22 +1,26 @@
 ###👋 Hi there, thanks for stopping by
 
-I'm here quite
-
+- 🌱 I’m currently learning about AI and Machine Learning.
+- 🔭 I’m currently working on a custom Robotic Arm. 
+- 👯 I’m looking for Electrical, Computer, and Software Engineering related internships. 
+- ⚡ Fun fact: I like to play basketball and read books.
+- 💬 Ask me about my projects or click [here](https://erionkeka.com) to learn more!
+  
 **Active Projects:** 
 
 - Robotic Arm:
-  -  I am currently designing a robotic arm that features 6 degrees of freedom.
-  -  Used: **Arduinos, C, and AutoCAD**.
+  -  I am currently designing a robotic arm that features 6 degrees of freedom using **Arduinos, C, and AutoCAD**.
 
 **Past Projects:**
+
 - NBA Stat Predictor:
-  - I developed an NBA Stat Predictor that scraped 90 000+ individual samples of data and predicts the stats of players.
-  - Used: **Aritifical Neural Networks and Python (pandas, NumPy, and scikit-learn)**
+  - I developed an NBA Stat Predictor scraping 90 000+ individual samples of data and predicting stats of players using **Aritifical Neural Networks and Python (pandas, NumPy, and scikit-learn)**
 
+- Snake Game:
+  - I created a dynamic Snake Game, employing fundamental programming principles and data structures to craft an engaging gaming experience using **C and C++**.
 
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- Get a Grip:
+  - Designed a system for the secure transfer of a surgical tool to an autoclave to be sterilized by writiing a set of functions that encompassed the main objective using **Python**.
 
 [Here's my portfolio!](https://erionkeka.com)
 <!--
@@ -25,11 +29,11 @@ I'm here quite
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
