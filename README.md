@@ -9,6 +9,7 @@
 **Active Projects:** 
 
 - Robotic Arm:
+  
   -  I am currently designing a robotic arm that features 6 degrees of freedom using **Arduinos, C, and AutoCAD**.
 
 **Past Projects:**
