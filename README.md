@@ -5,7 +5,8 @@ I'm here quite
 **Active Projects:** 
 
 - Robotic Arm:
-  -  I am currently designing a robotic arm that features 6 degrees of freedom using **Arduinos, C, and AutoCAD**.
+  -  I am currently designing a robotic arm that features 6 degrees of freedom.
+  -  Used: **Arduinos, C, and AutoCAD**.
 
 **Past Projects:**
 - NBA Stat Predictor:
