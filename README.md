@@ -1,5 +1,10 @@
-### Hi there 👋
+###👋 Hi there, thanks for stopping by
 
+- 🔭 I’m currently working towards my Bachelors of Engineering in Electrical Engineering. 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+
+Link to [My Portfolio](https://erionkeka.com)
 <!--
 **kekae304/kekae304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
