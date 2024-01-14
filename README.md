@@ -9,7 +9,8 @@ I'm here quite
 
 **Past Projects:**
 - NBA Stat Predictor:
-  - I developed an NBA Stat Predictor that scraped 90 000+ individual samples of data and predicts the stats of players using **Aritifical Neural Networks and Python (pandas, NumPy, and scikit-learn)**
+  - I developed an NBA Stat Predictor that scraped 90 000+ individual samples of data and predicts the stats of players.
+  - Used: **Aritifical Neural Networks and Python (pandas, NumPy, and scikit-learn)**
 
 
 - 🔭 
