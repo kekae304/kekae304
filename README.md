@@ -3,7 +3,7 @@
 - 🔭 I’m currently working towards my Bachelor's of Engineering in Electrical Engineering. 
 - 👯 I’m looking for Electrical, Computer, and Software Engineering related internships.
 - 🌱 I’m currently learning about AI and Machine Learning.
-- ⚡ Fun fact: I like to play basketball and read books.
+- ⚡ Fun fact: I like to play basketball and read in my spare time.
 - 💬 Ask me about my projects or click [here](https://erionkeka.com) to learn more!
   
 **Active Projects:** 
