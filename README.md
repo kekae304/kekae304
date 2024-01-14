@@ -1,4 +1,4 @@
-#👋 Hi there, thanks for stopping by
+👋 Hi there, thanks for stopping by
 
 - 🔭 I’m currently working towards my Bachelor's of Engineering in Electrical Engineering. 
 - 👯 I’m looking for Electrical, Computer, and Software Engineering related internships.
