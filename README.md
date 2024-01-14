@@ -1,8 +1,8 @@
 ###👋 Hi there, thanks for stopping by
 
+- 🔭 I’m currently working towards my Bachelor's of Engineering in Electrical Engineering. 
+- 👯 I’m looking for Electrical, Computer, and Software Engineering related internships.
 - 🌱 I’m currently learning about AI and Machine Learning.
-- 🔭 I’m currently working on a custom Robotic Arm. 
-- 👯 I’m looking for Electrical, Computer, and Software Engineering related internships. 
 - ⚡ Fun fact: I like to play basketball and read books.
 - 💬 Ask me about my projects or click [here](https://erionkeka.com) to learn more!
   
