@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about Embedded Systems, AI, and Machine Learning. 
 - ⚡ Fun fact: I like to play basketball and read in my spare time.
 - 💬 Ask me about my projects or click [here](https://erionkeka.com) to learn more!
-- 📫 You can reach me here -> Tostis@mcmaster.ca
+- 📫 You can reach me here -> kekae@mcmaster.ca
 - 🚀 Send me a connection request on LinkedIn by clicking [here](https://www.linkedin.com/in/erionkeka/)!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
