@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-**Active Projects:** 
+**My Projects:** 
 
 - **DC Power Supply:**
   
@@ -16,13 +16,12 @@
   -  Innovatively used a function generator to simulate the necessary sinusoidal waveform for laboratory testing, eliminating the necessity for direct connection with the high-voltage source.
   -  Demonstrated exceptional proficiency in circuit design and implementation, ensuring the power supply system consistently met stringent output requirements.
   -  Drafted an extensive report outlining the reasoning behind the choice of input level, the specs of the transformer, and the nuances of the circuit design, demonstrating a thorough comprehension of the design procedure and testing techniques.
-**Arduinos, C, and AutoCAD**.
-
-**Past Projects:**
 
 - **NBA Stat Predictor:**
-  - I developed an NBA Stat Predictor scraping 90 000+ individual samples of data and predicting stats of players using **Aritifical Neural Networks and Python (pandas, NumPy, and scikit-learn)**.
-
+  - Designed a predictive NBA statistic model that leverages a simple artificial neural network system to generate an accurate forecast of player performance, providing valuable insights into potential outcomes. The model employs advanced algorithms to analyze data from the last 14 years to make informed predictions on player performances.
+  - Developed a data scraper capable of extracting 90 000+ individual data points from 450 NBA players in less than 30 seconds. Simultaneously, organizing the extracted data in an efficient and user-friendly format for seamless readability.
+  - Coded using Python within the Jupyter Notebook environment, utilizing the machine learning library, scikit-learn for model construction. Meanwhile, incorporating NumPy and Pandas libraries for data interpretation and manipulation.
+  
 - **Snake Game:**
   - I created a dynamic Snake Game, employing fundamental programming principles and data structures to craft an engaging gaming experience using **C and C++**.
 
