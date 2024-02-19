@@ -25,8 +25,6 @@
   - Coded using Python within the Jupyter Notebook environment, utilizing the machine learning library, scikit-learn for model construction. Meanwhile, incorporating NumPy and Pandas libraries for data interpretation and manipulation.
   
 - **Snake Game:**
-  - I created a dynamic Snake Game, employing fundamental programming principles and data structures to craft an engaging gaming experience using **C and C++**.
-
-- **Get a Grip:**
-  - Designed a system for the secure transfer of a surgical tool to an autoclave to be sterilized by writiing a set of functions that encompassed the main objective using **Python**.
-
+  - Crafted a dynamic Snake Game using fundamental programming principles and data structures in C and C++ to deliver an engaging gaming experience.
+  - Implemented core gameplay mechanics, including snake movement, food generation, and collision detection, using C and C++.
+  - Utilized fundamental programming principles to ensure efficient game logic and smooth user experience.
