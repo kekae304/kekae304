@@ -28,3 +28,7 @@
   - Crafted a dynamic Snake Game using fundamental programming principles and data structures in C and C++ to deliver an engaging gaming experience.
   - Implemented core gameplay mechanics, including snake movement, food generation, and collision detection, using C and C++.
   - Utilized fundamental programming principles to ensure efficient game logic and smooth user experience.
+ 
+- **Stack 'N' Slice:**
+  - Designed a safe, convenient, and accessible solution to help a visually impaired client easily complete the steps of making a sandwich utilizing AutoCAD.
+  - Secured 2nd place among 1000 Engineering I students at McMaster University in the 1P13 Course and was endorsed by the Dyson Company serving as a testament to the innovative solution. 
