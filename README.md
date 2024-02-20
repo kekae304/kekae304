@@ -14,7 +14,7 @@
 
 - **DC Power Supply:**
   
-  -  Designed and engineered a precision DC power supply system aimed at delivering a consistent 10 mA at 3V ± 0.1V output, sourced from a 120V (rms) input at 1 kHz frequency.
+  -  Designed and engineered a precision DC power supply system aimed at delivering a consistent 10 mA at 3V ± 0.1V output, sourced from a 120 V (rms) input at 1 kHz frequency.
   -  Innovatively used a function generator to simulate the necessary sinusoidal waveform for laboratory testing, eliminating the necessity for direct connection with the high-voltage source.
   -  Demonstrated exceptional proficiency in circuit design and implementation, ensuring the power supply system consistently met stringent output requirements.
   -  Drafted an extensive report outlining the reasoning behind the choice of input level, the specs of the transformer, and the nuances of the circuit design, demonstrating a thorough comprehension of the design procedure and testing techniques.
