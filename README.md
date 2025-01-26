@@ -29,8 +29,8 @@
   - Implemented a resistive network with an inverting unity-gain buffer to produce precise analog output from digital inputs
   
 - **Snake Game:**
-  - Crafted a dynamic Snake Game using fundamental programming principles and data structures in C and C++ to deliver an engaging gaming experience.
-  - Implemented core gameplay mechanics, including snake movement, food generation, and collision detection, using C and C++.
+  - Crafted a dynamic Snake Game using fundamental programming principles and data structures in C/C++ to deliver an engaging gaming experience.
+  - Implemented core gameplay mechanics, including snake movement, food generation, and collision detection.
   - Utilized fundamental programming principles to ensure efficient game logic and smooth user experience.
  
 
