@@ -22,11 +22,6 @@
   -  Drafted an extensive report outlining the reasoning behind the choice of input level, the specs of the transformer, and the nuances of the circuit design, demonstrating a thorough comprehension of the design procedure and testing techniques.
 
 - **Snake Game:**
-  - Designed an 3-bit DAC using a transistor-resistor network to convert digital inputs into proportional analog voltages.
-  - Determined bit weights based on full-scale voltage ratio and the number of possible digital values.
-  - Implemented a resistive network with an inverting unity-gain buffer to produce precise analog output from digital inputs
-  
-- **Snake Game:**
   - Crafted a dynamic Snake Game using fundamental programming principles and data structures in C/C++ to deliver an engaging gaming experience.
   - Implemented core gameplay mechanics, including snake movement, food generation, and collision detection.
   - Utilized fundamental programming principles to ensure efficient game logic and smooth user experience.
